@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
-from flask import Flask, json, request
+from flask import Flask, request
 import pandas as pd
 import numpy as np
 import sqlite3
